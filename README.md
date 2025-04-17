@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @piyushkumarsingh06
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning  data structure and algorithm
+- I'm also working on full stack developement
